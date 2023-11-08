@@ -21,3 +21,5 @@ Customers with higher total fees are less likely to leave the customer base.
 Long-term customers who pay more than average are loyal.
 
 That's why it's important to reward long-term customers with incentives and other reward methods.
+
+Please click the link above to see the notebook.
